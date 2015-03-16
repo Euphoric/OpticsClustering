@@ -5,7 +5,7 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clustering.Optics", "Clustering.Optics\Clustering.Optics.csproj", "{9B099844-5051-41CF-9959-838A489D08A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clustering.Optics.Example", "..\Clustering.Optics.Example\Clustering.Optics.Example.csproj", "{F2BEF03B-C8B5-4733-B7DF-2CDD2B629B57}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clustering.Optics.Example", "Clustering.Optics.Example\Clustering.Optics.Example.csproj", "{F2BEF03B-C8B5-4733-B7DF-2CDD2B629B57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
